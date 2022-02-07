@@ -65,7 +65,7 @@
             "especial":false
          },
          "dataDeElaboracao":"11/09/2021",
-         "versoes":Perspiciatis 
+         "versoes":"Perspiciatis"
       },
       {
          "info":{
@@ -287,7 +287,7 @@
          "formato":"DOCX",
          "versao":{
             "numero":"1.1",
-            "especial":Perspiciatis 
+            "especial":"Perspiciatis"
          },
          "dataDeElaboracao":"11/09/2016",
          "versoes":true
@@ -353,7 +353,7 @@
          "formato":"PDF",
          "versao":{
             "numero":"1.1",
-            "especial":Perspiciatis 
+            "especial":"Perspiciatis"
          },
          "dataDeElaboracao":"11/10/2016",
          "versoes":""
