@@ -36,7 +36,7 @@
             ]
          }
       },
-	  {
+      {
          "tipo":"congue",
          "nunc":"10€",
          "local":"malesuada",
@@ -72,7 +72,7 @@
             ]
          }
       },
-	  {
+      {
          "tipo":"dolor Ipsum",
          "nunc":"4€",
          "local":"bibendum",
@@ -96,6 +96,6 @@
                ]
             ]
          }
-      },
+      }
    ]
 }
