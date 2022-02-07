@@ -2,7 +2,7 @@
    "data":[
       {
          "tipo":"Lorem Ipsum",
-         "nunc":"3€",
+         "total":"3€",
          "local":"pharetra",
          "data":"11/11/2020 10:48",
          "detail":{
@@ -27,7 +27,7 @@
       },
       {
          "tipo":"parturient",
-         "nunc":"10€",
+         "total":"10€",
          "local":"varius",
          "data":"11/11/2020 10:48",
          "detail":{
@@ -38,7 +38,7 @@
       },
       {
          "tipo":"congue",
-         "nunc":"10€",
+         "total":"10€",
          "local":"malesuada",
          "data":"11/11/2020 10:48",
          "detail":{
@@ -49,7 +49,7 @@
       },
       {
          "tipo":"Lorem Ipsum",
-         "nunc":"3€",
+         "total":"3€",
          "local":"pharetra",
          "data":"11/11/2020 10:48",
          "detail":{
@@ -74,7 +74,7 @@
       },
       {
          "tipo":"dolor Ipsum",
-         "nunc":"4€",
+         "total":"4€",
          "local":"bibendum",
          "data":"11/11/2020 10:48",
          "detail":{
