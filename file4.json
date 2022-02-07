@@ -58,6 +58,11 @@
             "value":"blandit enim porta nunc tempor, eget tempor dolor ornare. Vestibulum tristique ipsum ut auctor molestie. Cras ipsum leo, maximus at",
             "title":"Horas"
          },
+         "horas":{
+            "type":"time",
+            "value":"10:33",
+            "title":"Horas"
+         },
          "correcao":{
             "type":"timequantity",
             "value":"0:31",
