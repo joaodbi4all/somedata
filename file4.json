@@ -37,7 +37,7 @@
             "title":"Valor"
          },
          "link":{
-            "type":"text-field",
+            "type":"link",
             "value":"/apresentacao",
             "title":"Valor"
          }
@@ -79,7 +79,7 @@
             "title":"Valor"
          },
          "link":{
-            "type":"text-field",
+            "type":"link",
             "value":"/apresentacao",
             "title":"Valor"
          }
