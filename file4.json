@@ -35,6 +35,11 @@
             "type":"text-field",
             "value":"€150,00",
             "title":"Valor"
+         },
+         "link":{
+            "type":"text-field",
+            "value":"/apresentacao",
+            "title":"Valor"
          }
       },
       {
@@ -71,6 +76,11 @@
          "valor":{
             "type":"text-field",
             "value":"€150,00",
+            "title":"Valor"
+         },
+         "link":{
+            "type":"text-field",
+            "value":"/apresentacao",
             "title":"Valor"
          }
       }
