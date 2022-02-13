@@ -1,88 +1,54 @@
 {
    "data":[
       {
-         "executante":{
-            "type":"text-field",
-            "value":"MFD",
-            "title":"Executante"
-         },
-         "data":{
-            "type":"date",
-            "value":"15/01/2021",
-            "title":"Data"
-         },
-         "dossier":{
-            "type":"text-field",
-            "value":"04649.0001",
-            "title":"Dossier"
-         },
-         "descricao":{
-            "type":"text-area",
-            "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor lectus. Nullam eget ornare nunc, vel condimentum orci. Donec",
-            "title":"Descrição"
-         },
-         "horas":{
-            "type":"time",
-            "value":"00:30",
-            "title":"Horas"
-         },
-         "correcao":{
-            "type":"timequantity",
-            "value":"0:30",
-            "title":"Correção"
-         },
-         "valor":{
-            "type":"text-field",
-            "value":"€150,00",
-            "title":"Valor"
-         },
-         "link":{
-            "type":"link",
-            "value":"/apresentacao",
-            "title":"Valor"
-         }
+         "executante":"MFD",
+         "data":"15/01/2021",
+         "dossier":"04649.0001",
+         "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor lectus. Nullam eget ornare nunc, vel condimentum orci. Donec",
+         "horas":"00:30",
+         "correcao":"0:30",
+         "valor":"€150,00",
+         "link":"/apresentacao"
       },
-      {
-         "executante":{
-            "type":"text-field",
-            "value":"MFD",
-            "title":"Executante"
-         },
-         "data":{
-            "type":"date",
-            "value":"15/01/2021",
-            "title":"Data"
-         },
-         "dossier":{
-            "type":"text-field",
-            "value":"04649.0001",
-            "title":"Dossier"
-         },
-         "descricao":{
-            "type":"text-area",
-            "value":"blandit enim porta nunc tempor, eget tempor dolor ornare. Vestibulum tristique ipsum ut auctor molestie. Cras ipsum leo, maximus at",
-            "title":"Horas"
-         },
-         "horas":{
-            "type":"time",
-            "value":"10:33",
-            "title":"Horas"
-         },
-         "correcao":{
-            "type":"timequantity",
-            "value":"0:31",
-            "title":"Correção"
-         },
-         "valor":{
-            "type":"text-field",
-            "value":"€150,00",
-            "title":"Valor"
-         },
-         "link":{
-            "type":"link",
-            "value":"/apresentacao",
-            "title":"Valor"
-         }
-      }
+       {
+         "executante":"JMD",
+         "data":"14/11/2000",
+         "dossier":"04649.0001",
+         "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor lectus. Nullam eget ornare nunc, vel condimentum orci. Donec",
+         "horas":"18:30",
+         "correcao":"99:00",
+         "valor":"€10,00",
+         "link":"/apresentacao"
+      },
+	  {
+         "executante":"CFG",
+         "data":"14/11/2000",
+         "dossier":"04649.0001",
+         "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor lectus. Nullam eget ornare nunc, vel condimentum orci. Donec",
+         "horas":"08:30",
+         "correcao":"0:30",
+         "valor":"€10,00",
+         "link":"/apresentacao"
+      },
+	  {
+         "executante":"JMD",
+         "data":"14/11/2001",
+         "dossier":"04649.0001",
+         "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor lectus. Nullam eget ornare nunc, vel condimentum orci. Donec",
+         "horas":"08:30",
+         "correcao":"0:30",
+         "valor":"€10,00",
+         "link":"/apresentacao"
+      },
+	    {
+         "executante":"MFD",
+         "data":"16/01/2021",
+         "dossier":"04649.0001",
+         "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor lectus. Nullam eget ornare nunc, vel condimentum orci. Donec",
+         "horas":"00:30",
+         "correcao":"0:30",
+         "valor":"€150,00",
+         "link":"/apresentacao"
+      },
    ]
 }
